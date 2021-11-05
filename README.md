@@ -1,2 +1,2 @@
-# salesforce-sso
+# Salesforce SSO
 Salesforce Single Sign-On
